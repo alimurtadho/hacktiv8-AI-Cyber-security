@@ -52,9 +52,9 @@ GRANITE_13B_CHAT = 'ibm/granite-13b-chat-v1'
 LLAMA_2_70B_CHAT = 'meta-llama/llama-2-70b-chat'
 
 # These global variables will be updated in get_credentials() function
-watsonx_project_id = "e6272693-3683-4971-bc24-5cf71802ca71"
+watsonx_project_id = ""
 # Replace with your IBM Cloud key
-api_key = "jRT6Tul_gc4fFvT3JP7Zb8-oc1VwVzjuyWHwnnD-2MUR"
+api_key = ""
 
 # Selected model
 selected_use_case_model = ""
