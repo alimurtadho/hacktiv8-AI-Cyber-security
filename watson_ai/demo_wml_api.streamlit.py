@@ -30,12 +30,12 @@ from ibm_watson_machine_learning.foundation_models.utils.enums import ModelTypes
 # can be stored in an .env or a properties file
 
 # URL of the hosted LLMs is hardcoded because at this time all LLMs share the same endpoint
-url = "https://jp-tok.ml.cloud.ibm.com"
+url = ""
 
 # These global variables will be updated in get_credentials() functions
-watsonx_project_id = "361b7067-26c1-439c-a73c-2a69dd39a377"
+watsonx_project_id = ""
 # Replace with your IBM Cloud key
-api_key = "jRT6Tul_gc4fFvT3JP7Zb8-oc1VwVzjuyWHwnnD-2MUR"
+api_key = ""
 
 def get_credentials():
 
